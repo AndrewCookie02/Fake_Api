@@ -1,0 +1,12 @@
+{
+    "videojuegos" : [
+        {"id":1, "name": "videojuego 1", "consola": "sony"},
+        {"id":2, "name": "videojuego 2", "consola": "xbox"},
+        {"id":3, "name": "videojuego 3", "consola": "PS"}
+    ],
+    "consolas" :[
+        {"id":1, "name_consola": "sony", "categoria": "2D"},
+        {"id":2, "name_consola": "Xbox", "categoria": "3D"},
+        {"id":3, "name_consola": "PS", "categoria": "2D-3D"}
+    ]
+}
